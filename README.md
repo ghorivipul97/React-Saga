@@ -1,4 +1,4 @@
-# demo-react-jnext
+# demo-React Sage
 
 ## Features
 
